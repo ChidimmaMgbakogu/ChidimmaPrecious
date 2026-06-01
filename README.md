@@ -5,6 +5,13 @@
 <a href= "mgbakoguchidinma@gmail.com"><img src="https://shields.io" alt="Email"></a>
 <a href= https://web.whatsapp.com/><img src="https://shields.io" alt="WhatsApp"></a>
 
+<!-- Social Badges Section -->
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/preciouschidimma10/)
+[![X](https://shields.io)](https://x.com/Nma_pres)
+[![Email](https://shields.io)](mgbakoguchidinma@gmail.com)
+[![WhatsApp](https://shields.io)](https://web.whatsapp.com/)
+
+
 ## 🚀 About Me
 I am a Business Analyst who finds genuine joy in solving problems — provided there is data to explore. My focus is on bridging the gap between business needs and technical solutions, where I aim to combine structured analysis with sound business knowledge to address real-world challenges.
 
